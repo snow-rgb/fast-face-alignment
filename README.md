@@ -1,7 +1,9 @@
 # Fast-Face-Alignment
 ## Intrduction
 We provide several small models for face alignment, which have shown good performances on both AFLW2000-3D and 300W-LP.
-We will realse the method introdutuon and training code later --> when our paper published :).
+We will realse the method introdutuon and training code later.
+
+![demo](demo.gif)
 
 ## Model information
 
